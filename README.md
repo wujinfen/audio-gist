@@ -11,7 +11,7 @@ AudioGist is deployed as an interactive web app with **Gradio** in Hugging Face 
 
 ## Demo
 
-👉 [Try AudioGist live on Hugging Face Spaces](https://huggingface.co/spaces/your-username/retina-disease-classifier)
+👉 [Try AudioGist live on Hugging Face Spaces]([https://huggingface.co/spaces/your-username/retina-disease-classifier](https://huggingface.co/spaces/wujingg/AudioGist))
 
 Upload audio and get the gist.
 
