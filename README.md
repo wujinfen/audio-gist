@@ -5,7 +5,7 @@ AudioGist is a ASR-NLP ML pipeline that transcribes audio to text and generates 
 Built using **PyTorch** and **Hugging Face Transfomers** with OpenAI's **Whisper** model for speech recognition and Google's **Flan-T5** (small) model for text generation.
 AudioGist is deployed as an interactive web app with **Gradio** in Hugging Face Spaces.
 
-![App Demo](app_demo.PNG)
+![AudioGist Demo](audiogist_demo.PNG)
 
 ---
 
